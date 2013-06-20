@@ -13,12 +13,12 @@
 //  limitations under the License.
 
 #import <Cocoa/Cocoa.h>
-#import <UMEKit/UMEKit.h>
+#import <UIKit/UIKit.h>
 
 @interface DemoAppDelegate : NSObject {
     IBOutlet NSWindow *window;
-    UMETabBarController *tabBarController;
+    UITabBarController *tabBarController;
 }
 
-@property (nonatomic, retain) UMETabBarController *tabBarController;
+@property (nonatomic, retain) UITabBarController *tabBarController;
 @end

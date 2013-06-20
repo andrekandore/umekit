@@ -9,63 +9,63 @@
 /* Begin PBXBuildFile section */
 		8DC2EF530486A6940098B216 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C1666FE841158C02AAC07 /* InfoPlist.strings */; };
 		8DC2EF570486A6940098B216 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */; };
-		D306BB6A10916A3A0011DE1B /* UMETabBarItemButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D306BB6810916A3A0011DE1B /* UMETabBarItemButtonCell.m */; };
-		D306BB6B10916A3A0011DE1B /* UMETabBarItemButtonCell.h in Headers */ = {isa = PBXBuildFile; fileRef = D306BB6910916A3A0011DE1B /* UMETabBarItemButtonCell.h */; };
-		D33E9C06108F6D8000A35E55 /* UMEBarButtonItemButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D33E9C04108F6D8000A35E55 /* UMEBarButtonItemButton.h */; };
-		D33E9C07108F6D8000A35E55 /* UMEBarButtonItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D33E9C05108F6D8000A35E55 /* UMEBarButtonItemButton.m */; };
-		D343404D10741E2200C31EFA /* UMEGeometry.h in Headers */ = {isa = PBXBuildFile; fileRef = D343404C10741E2200C31EFA /* UMEGeometry.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D343407510742B3500C31EFA /* UMEKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DC2EF5B0486A6940098B216 /* UMEKit.framework */; };
+		D306BB6A10916A3A0011DE1B /* UITabBarItemButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D306BB6810916A3A0011DE1B /* UITabBarItemButtonCell.m */; };
+		D306BB6B10916A3A0011DE1B /* UITabBarItemButtonCell.h in Headers */ = {isa = PBXBuildFile; fileRef = D306BB6910916A3A0011DE1B /* UITabBarItemButtonCell.h */; };
+		D33E9C06108F6D8000A35E55 /* UIBarButtonItemButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D33E9C04108F6D8000A35E55 /* UIBarButtonItemButton.h */; };
+		D33E9C07108F6D8000A35E55 /* UIBarButtonItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D33E9C05108F6D8000A35E55 /* UIBarButtonItemButton.m */; };
+		D343404D10741E2200C31EFA /* UIGeometry.h in Headers */ = {isa = PBXBuildFile; fileRef = D343404C10741E2200C31EFA /* UIGeometry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D343407510742B3500C31EFA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DC2EF5B0486A6940098B216 /* UIKit.framework */; };
 		D34340A710742BF700C31EFA /* DemoAppMainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D34340A610742BF700C31EFA /* DemoAppMainMenu.xib */; };
 		D34340AA10742C0600C31EFA /* DemoAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D34340A910742C0600C31EFA /* DemoAppDelegate.m */; };
 		D34340BF10742D4900C31EFA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D34340BE10742D4900C31EFA /* main.m */; };
 		D34340ED1074302800C31EFA /* RootView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D34340EC1074302800C31EFA /* RootView.xib */; };
 		D34340F9107430A700C31EFA /* MyFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D34340F8107430A700C31EFA /* MyFirstViewController.m */; };
-		D34341AA10743EE500C31EFA /* UMEInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = D34341A910743EE500C31EFA /* UMEInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D34342281074446C00C31EFA /* UMERedView.m in Sources */ = {isa = PBXBuildFile; fileRef = D34342261074446C00C31EFA /* UMERedView.m */; };
-		D343424B1074455900C31EFA /* UMEFlippedView.m in Sources */ = {isa = PBXBuildFile; fileRef = D34342491074455900C31EFA /* UMEFlippedView.m */; };
-		D350D2E3117BB25A00A21B6A /* UMEPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = D350D2E1117BB25A00A21B6A /* UMEPopoverController.m */; };
-		D350D2F1117BB44200A21B6A /* UMEPopoverController.h in Headers */ = {isa = PBXBuildFile; fileRef = D350D2F0117BB44200A21B6A /* UMEPopoverController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D34341AA10743EE500C31EFA /* UIInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = D34341A910743EE500C31EFA /* UIInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D34342281074446C00C31EFA /* UIRedView.m in Sources */ = {isa = PBXBuildFile; fileRef = D34342261074446C00C31EFA /* UIRedView.m */; };
+		D343424B1074455900C31EFA /* UIFlippedView.m in Sources */ = {isa = PBXBuildFile; fileRef = D34342491074455900C31EFA /* UIFlippedView.m */; };
+		D350D2E3117BB25A00A21B6A /* UIPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = D350D2E1117BB25A00A21B6A /* UIPopoverController.m */; };
+		D350D2F1117BB44200A21B6A /* UIPopoverController.h in Headers */ = {isa = PBXBuildFile; fileRef = D350D2F0117BB44200A21B6A /* UIPopoverController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D35575B810867F000038982C /* MySecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D35575B510867EF60038982C /* MySecondViewController.m */; };
 		D35575BC10867F240038982C /* MyThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D35575BB10867F240038982C /* MyThirdViewController.m */; };
-		D39BF34F1087028800E399F3 /* UMEDebugView.m in Sources */ = {isa = PBXBuildFile; fileRef = D39BF34D1087028800E399F3 /* UMEDebugView.m */; };
+		D39BF34F1087028800E399F3 /* UIDebugView.m in Sources */ = {isa = PBXBuildFile; fileRef = D39BF34D1087028800E399F3 /* UIDebugView.m */; };
 		D39BF4621087119400E399F3 /* FirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D39BF4611087119400E399F3 /* FirstView.xib */; };
 		D39BF5B610883FA100E399F3 /* SecondView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D39BF5B510883FA100E399F3 /* SecondView.xib */; };
 		D39BF5CC1088406400E399F3 /* ThirdView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D39BF5CB1088406400E399F3 /* ThirdView.xib */; };
 		D3C3B2181085620100ED4547 /* MyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3C3B20F108561CE00ED4547 /* MyRootViewController.m */; };
-		D3CF41D5109002EB0035F42A /* UMEBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3CF41D3109002EB0035F42A /* UMEBarItem.m */; };
-		D3CF41D71090076C0035F42A /* UMEBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3CF41D61090076C0035F42A /* UMEBarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3CF428E10901C7D0035F42A /* UMETabBarItemButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D3CF428C10901C7D0035F42A /* UMETabBarItemButton.h */; };
-		D3CF428F10901C7D0035F42A /* UMETabBarItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D3CF428D10901C7D0035F42A /* UMETabBarItemButton.m */; };
+		D3CF41D5109002EB0035F42A /* UIBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3CF41D3109002EB0035F42A /* UIBarItem.m */; };
+		D3CF41D71090076C0035F42A /* UIBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3CF41D61090076C0035F42A /* UIBarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3CF428E10901C7D0035F42A /* UITabBarItemButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D3CF428C10901C7D0035F42A /* UITabBarItemButton.h */; };
+		D3CF428F10901C7D0035F42A /* UITabBarItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D3CF428D10901C7D0035F42A /* UITabBarItemButton.m */; };
 		D3DEC10B1070060C006B582A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3DEC10A1070060C006B582A /* QuartzCore.framework */; };
-		D3DEC1101070062E006B582A /* UMEViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC10E1070062E006B582A /* UMEViewController.m */; };
-		D3DEC16C10700D50006B582A /* UMEViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC16B10700D50006B582A /* UMEViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC19710700DBD006B582A /* UMENavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC19510700DBD006B582A /* UMENavigationController.m */; };
-		D3DEC19910700DE7006B582A /* UMENavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC19810700DE7006B582A /* UMENavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC19D10700E10006B582A /* UMEKit.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC19C10700E10006B582A /* UMEKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC1AD10701106006B582A /* UMENavigationItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1AB10701106006B582A /* UMENavigationItem.m */; };
-		D3DEC1B110701114006B582A /* UMETabBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1AF10701114006B582A /* UMETabBarItem.m */; };
-		D3DEC1B510701123006B582A /* UMETabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1B310701123006B582A /* UMETabBarController.m */; };
-		D3DEC1B91070112F006B582A /* UMETabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1B71070112F006B582A /* UMETabBar.m */; };
-		D3DEC1BE1070114D006B582A /* UMENavigationItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BA1070114D006B582A /* UMENavigationItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC1BF1070114D006B582A /* UMETabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BB1070114D006B582A /* UMETabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC1C01070114D006B582A /* UMETabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BC1070114D006B582A /* UMETabBarController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC1C11070114D006B582A /* UMETabBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BD1070114D006B582A /* UMETabBarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC23510701397006B582A /* UMEBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC23310701397006B582A /* UMEBarButtonItem.m */; };
-		D3DEC239107013A7006B582A /* UMENavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC237107013A7006B582A /* UMENavigationBar.m */; };
-		D3DEC242107013DF006B582A /* UMEBarButtonItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC240107013DF006B582A /* UMEBarButtonItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3DEC243107013DF006B582A /* UMENavigationBar.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC241107013DF006B582A /* UMENavigationBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3E20CAB11D850A9006C9532 /* UMEImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E20CA911D850A9006C9532 /* UMEImageCache.h */; };
-		D3E20CAC11D850A9006C9532 /* UMEImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E20CAA11D850A9006C9532 /* UMEImageCache.m */; };
-		D3E571BF109123B900810BCD /* UMEActivityBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571BD109123B900810BCD /* UMEActivityBarButtonItem.m */; };
-		D3E571C1109123F000810BCD /* UMEActivityBarButtonItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571C0109123F000810BCD /* UMEActivityBarButtonItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3E571C41091249B00810BCD /* UMEActivityBarButtonItemButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571C21091249B00810BCD /* UMEActivityBarButtonItemButton.h */; };
-		D3E571C51091249B00810BCD /* UMEActivityBarButtonItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571C31091249B00810BCD /* UMEActivityBarButtonItemButton.m */; };
-		D3E571CC1091255500810BCD /* UMEBarButtonItemButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571CA1091255500810BCD /* UMEBarButtonItemButtonCell.m */; };
-		D3E571CD1091255500810BCD /* UMEBarButtonItemButtonCell.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571CB1091255500810BCD /* UMEBarButtonItemButtonCell.h */; };
-		D3E571FC109125E500810BCD /* UMEActivityBarButtonItemButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571FA109125E500810BCD /* UMEActivityBarButtonItemButtonCell.m */; };
-		D3E571FD109125E500810BCD /* UMEActivityBarButtonItemButtonCell.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571FB109125E500810BCD /* UMEActivityBarButtonItemButtonCell.h */; };
-		D3EA864F117BBA24000988EE /* UMEPopoverView.h in Headers */ = {isa = PBXBuildFile; fileRef = D3EA864D117BBA24000988EE /* UMEPopoverView.h */; };
-		D3EA8650117BBA24000988EE /* UMEPopoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = D3EA864E117BBA24000988EE /* UMEPopoverView.m */; };
+		D3DEC1101070062E006B582A /* UIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC10E1070062E006B582A /* UIViewController.m */; };
+		D3DEC16C10700D50006B582A /* UIViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC16B10700D50006B582A /* UIViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC19710700DBD006B582A /* UINavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC19510700DBD006B582A /* UINavigationController.m */; };
+		D3DEC19910700DE7006B582A /* UINavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC19810700DE7006B582A /* UINavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC19D10700E10006B582A /* UIKit.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC19C10700E10006B582A /* UIKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC1AD10701106006B582A /* UINavigationItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1AB10701106006B582A /* UINavigationItem.m */; };
+		D3DEC1B110701114006B582A /* UITabBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1AF10701114006B582A /* UITabBarItem.m */; };
+		D3DEC1B510701123006B582A /* UITabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1B310701123006B582A /* UITabBarController.m */; };
+		D3DEC1B91070112F006B582A /* UITabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC1B71070112F006B582A /* UITabBar.m */; };
+		D3DEC1BE1070114D006B582A /* UINavigationItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BA1070114D006B582A /* UINavigationItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC1BF1070114D006B582A /* UITabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BB1070114D006B582A /* UITabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC1C01070114D006B582A /* UITabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BC1070114D006B582A /* UITabBarController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC1C11070114D006B582A /* UITabBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC1BD1070114D006B582A /* UITabBarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC23510701397006B582A /* UIBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC23310701397006B582A /* UIBarButtonItem.m */; };
+		D3DEC239107013A7006B582A /* UINavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = D3DEC237107013A7006B582A /* UINavigationBar.m */; };
+		D3DEC242107013DF006B582A /* UIBarButtonItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC240107013DF006B582A /* UIBarButtonItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3DEC243107013DF006B582A /* UINavigationBar.h in Headers */ = {isa = PBXBuildFile; fileRef = D3DEC241107013DF006B582A /* UINavigationBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3E20CAB11D850A9006C9532 /* UIImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E20CA911D850A9006C9532 /* UIImageCache.h */; };
+		D3E20CAC11D850A9006C9532 /* UIImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E20CAA11D850A9006C9532 /* UIImageCache.m */; };
+		D3E571BF109123B900810BCD /* UIActivityBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571BD109123B900810BCD /* UIActivityBarButtonItem.m */; };
+		D3E571C1109123F000810BCD /* UIActivityBarButtonItem.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571C0109123F000810BCD /* UIActivityBarButtonItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3E571C41091249B00810BCD /* UIActivityBarButtonItemButton.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571C21091249B00810BCD /* UIActivityBarButtonItemButton.h */; };
+		D3E571C51091249B00810BCD /* UIActivityBarButtonItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571C31091249B00810BCD /* UIActivityBarButtonItemButton.m */; };
+		D3E571CC1091255500810BCD /* UIBarButtonItemButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571CA1091255500810BCD /* UIBarButtonItemButtonCell.m */; };
+		D3E571CD1091255500810BCD /* UIBarButtonItemButtonCell.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571CB1091255500810BCD /* UIBarButtonItemButtonCell.h */; };
+		D3E571FC109125E500810BCD /* UIActivityBarButtonItemButtonCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D3E571FA109125E500810BCD /* UIActivityBarButtonItemButtonCell.m */; };
+		D3E571FD109125E500810BCD /* UIActivityBarButtonItemButtonCell.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E571FB109125E500810BCD /* UIActivityBarButtonItemButtonCell.h */; };
+		D3EA864F117BBA24000988EE /* UIPopoverView.h in Headers */ = {isa = PBXBuildFile; fileRef = D3EA864D117BBA24000988EE /* UIPopoverView.h */; };
+		D3EA8650117BBA24000988EE /* UIPopoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = D3EA864E117BBA24000988EE /* UIPopoverView.m */; };
 		D3EA86C4117BBDAC000988EE /* back_button_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = D3EA8659117BBDAC000988EE /* back_button_bg.png */; };
 		D3EA86C5117BBDAC000988EE /* barbutton_system_item_action.png in Resources */ = {isa = PBXBuildFile; fileRef = D3EA865A117BBDAC000988EE /* barbutton_system_item_action.png */; };
 		D3EA86C6117BBDAC000988EE /* barbutton_system_item_add.png in Resources */ = {isa = PBXBuildFile; fileRef = D3EA865B117BBDAC000988EE /* barbutton_system_item_add.png */; };
@@ -173,8 +173,8 @@
 		D3EA872C117BBDAC000988EE /* toolbar_bg_default.png in Resources */ = {isa = PBXBuildFile; fileRef = D3EA86C1117BBDAC000988EE /* toolbar_bg_default.png */; };
 		D3EA872D117BBDAC000988EE /* toolbar_bg_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = D3EA86C2117BBDAC000988EE /* toolbar_bg_gray.png */; };
 		D3EA872E117BBDAC000988EE /* toolbar_bg_navy.png in Resources */ = {isa = PBXBuildFile; fileRef = D3EA86C3117BBDAC000988EE /* toolbar_bg_navy.png */; };
-		D3EB8C4E117A65D8003C4A2E /* UMEToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = D3EB8C4D117A65D8003C4A2E /* UMEToolbar.m */; };
-		D3EB8C50117A65EE003C4A2E /* UMEToolbar.h in Headers */ = {isa = PBXBuildFile; fileRef = D3EB8C4F117A65EE003C4A2E /* UMEToolbar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3EB8C4E117A65D8003C4A2E /* UIToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = D3EB8C4D117A65D8003C4A2E /* UIToolbar.m */; };
+		D3EB8C50117A65EE003C4A2E /* UIToolbar.h in Headers */ = {isa = PBXBuildFile; fileRef = D3EB8C4F117A65EE003C4A2E /* UIToolbar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -183,7 +183,7 @@
 			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8DC2EF4F0486A6940098B216;
-			remoteInfo = UMEKit;
+			remoteInfo = UIKit;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -192,75 +192,75 @@
 		0867D6A5FE840307C02AAC07 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		089C1667FE841158C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
-		32DBCF5E0370ADEE00C91783 /* UMEKit_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UMEKit_Prefix.pch; sourceTree = "<group>"; };
+		32DBCF5E0370ADEE00C91783 /* UIKit_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIKit_Prefix.pch; sourceTree = "<group>"; };
 		8DC2EF5A0486A6940098B216 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8DC2EF5B0486A6940098B216 /* UMEKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UMEKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D306BB6810916A3A0011DE1B /* UMETabBarItemButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMETabBarItemButtonCell.m; path = src/UMETabBarItemButtonCell.m; sourceTree = "<group>"; };
-		D306BB6910916A3A0011DE1B /* UMETabBarItemButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMETabBarItemButtonCell.h; path = src/UMETabBarItemButtonCell.h; sourceTree = "<group>"; };
-		D33E9C04108F6D8000A35E55 /* UMEBarButtonItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEBarButtonItemButton.h; path = src/UMEBarButtonItemButton.h; sourceTree = "<group>"; };
-		D33E9C05108F6D8000A35E55 /* UMEBarButtonItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEBarButtonItemButton.m; path = src/UMEBarButtonItemButton.m; sourceTree = "<group>"; };
-		D343404C10741E2200C31EFA /* UMEGeometry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEGeometry.h; path = include/UMEKit/UMEGeometry.h; sourceTree = "<group>"; };
+		8DC2EF5B0486A6940098B216 /* UIKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UIKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D306BB6810916A3A0011DE1B /* UITabBarItemButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UITabBarItemButtonCell.m; path = src/UITabBarItemButtonCell.m; sourceTree = "<group>"; };
+		D306BB6910916A3A0011DE1B /* UITabBarItemButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UITabBarItemButtonCell.h; path = src/UITabBarItemButtonCell.h; sourceTree = "<group>"; };
+		D33E9C04108F6D8000A35E55 /* UIBarButtonItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBarButtonItemButton.h; path = src/UIBarButtonItemButton.h; sourceTree = "<group>"; };
+		D33E9C05108F6D8000A35E55 /* UIBarButtonItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIBarButtonItemButton.m; path = src/UIBarButtonItemButton.m; sourceTree = "<group>"; };
+		D343404C10741E2200C31EFA /* UIGeometry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIGeometry.h; path = include/UIKit/UIGeometry.h; sourceTree = "<group>"; };
 		D343406B10742B2000C31EFA /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D34340A210742BD900C31EFA /* DemoApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "DemoApp-Info.plist"; path = "demoapp/DemoApp-Info.plist"; sourceTree = "<group>"; };
 		D34340A610742BF700C31EFA /* DemoAppMainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DemoAppMainMenu.xib; path = demoapp/DemoAppMainMenu.xib; sourceTree = "<group>"; };
-		D34340A810742C0600C31EFA /* DemoAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DemoAppDelegate.h; path = demoapp/DemoAppDelegate.h; sourceTree = "<group>"; };
-		D34340A910742C0600C31EFA /* DemoAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DemoAppDelegate.m; path = demoapp/DemoAppDelegate.m; sourceTree = "<group>"; };
+		D34340A810742C0600C31EFA /* DemoAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 2; name = DemoAppDelegate.h; path = demoapp/DemoAppDelegate.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		D34340A910742C0600C31EFA /* DemoAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 2; name = DemoAppDelegate.m; path = demoapp/DemoAppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		D34340BE10742D4900C31EFA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = demoapp/main.m; sourceTree = "<group>"; };
 		D34340EC1074302800C31EFA /* RootView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RootView.xib; path = demoapp/RootView.xib; sourceTree = "<group>"; };
 		D34340F7107430A700C31EFA /* MyFirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyFirstViewController.h; path = demoapp/MyFirstViewController.h; sourceTree = "<group>"; };
 		D34340F8107430A700C31EFA /* MyFirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyFirstViewController.m; path = demoapp/MyFirstViewController.m; sourceTree = "<group>"; };
-		D34341A910743EE500C31EFA /* UMEInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEInterface.h; path = include/UMEKit/UMEInterface.h; sourceTree = "<group>"; };
-		D34342251074446C00C31EFA /* UMERedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMERedView.h; path = src/UMERedView.h; sourceTree = "<group>"; };
-		D34342261074446C00C31EFA /* UMERedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMERedView.m; path = src/UMERedView.m; sourceTree = "<group>"; };
-		D34342481074455900C31EFA /* UMEFlippedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEFlippedView.h; path = src/UMEFlippedView.h; sourceTree = "<group>"; };
-		D34342491074455900C31EFA /* UMEFlippedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEFlippedView.m; path = src/UMEFlippedView.m; sourceTree = "<group>"; };
-		D350D2E1117BB25A00A21B6A /* UMEPopoverController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEPopoverController.m; path = src/UMEPopoverController.m; sourceTree = "<group>"; };
-		D350D2F0117BB44200A21B6A /* UMEPopoverController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEPopoverController.h; path = include/UMEKit/UMEPopoverController.h; sourceTree = "<group>"; };
+		D34341A910743EE500C31EFA /* UIInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIInterface.h; path = include/UIKit/UIInterface.h; sourceTree = "<group>"; };
+		D34342251074446C00C31EFA /* UIRedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIRedView.h; path = src/UIRedView.h; sourceTree = "<group>"; };
+		D34342261074446C00C31EFA /* UIRedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIRedView.m; path = src/UIRedView.m; sourceTree = "<group>"; };
+		D34342481074455900C31EFA /* UIFlippedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIFlippedView.h; path = src/UIFlippedView.h; sourceTree = "<group>"; };
+		D34342491074455900C31EFA /* UIFlippedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIFlippedView.m; path = src/UIFlippedView.m; sourceTree = "<group>"; };
+		D350D2E1117BB25A00A21B6A /* UIPopoverController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIPopoverController.m; path = src/UIPopoverController.m; sourceTree = "<group>"; };
+		D350D2F0117BB44200A21B6A /* UIPopoverController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIPopoverController.h; path = include/UIKit/UIPopoverController.h; sourceTree = "<group>"; };
 		D35575B410867EF60038982C /* MySecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MySecondViewController.h; path = demoapp/MySecondViewController.h; sourceTree = "<group>"; };
 		D35575B510867EF60038982C /* MySecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MySecondViewController.m; path = demoapp/MySecondViewController.m; sourceTree = "<group>"; };
 		D35575BA10867F240038982C /* MyThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyThirdViewController.h; path = demoapp/MyThirdViewController.h; sourceTree = "<group>"; };
 		D35575BB10867F240038982C /* MyThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyThirdViewController.m; path = demoapp/MyThirdViewController.m; sourceTree = "<group>"; };
-		D39BF34C1087028800E399F3 /* UMEDebugView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEDebugView.h; path = src/UMEDebugView.h; sourceTree = "<group>"; };
-		D39BF34D1087028800E399F3 /* UMEDebugView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEDebugView.m; path = src/UMEDebugView.m; sourceTree = "<group>"; };
+		D39BF34C1087028800E399F3 /* UIDebugView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIDebugView.h; path = src/UIDebugView.h; sourceTree = "<group>"; };
+		D39BF34D1087028800E399F3 /* UIDebugView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIDebugView.m; path = src/UIDebugView.m; sourceTree = "<group>"; };
 		D39BF4611087119400E399F3 /* FirstView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FirstView.xib; path = demoapp/FirstView.xib; sourceTree = "<group>"; };
 		D39BF5B510883FA100E399F3 /* SecondView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SecondView.xib; path = demoapp/SecondView.xib; sourceTree = "<group>"; };
 		D39BF5CB1088406400E399F3 /* ThirdView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ThirdView.xib; path = demoapp/ThirdView.xib; sourceTree = "<group>"; };
 		D3C3B20E108561CE00ED4547 /* MyRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyRootViewController.h; path = demoapp/MyRootViewController.h; sourceTree = "<group>"; };
 		D3C3B20F108561CE00ED4547 /* MyRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyRootViewController.m; path = demoapp/MyRootViewController.m; sourceTree = "<group>"; };
-		D3CF41D3109002EB0035F42A /* UMEBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEBarItem.m; path = src/UMEBarItem.m; sourceTree = "<group>"; };
-		D3CF41D61090076C0035F42A /* UMEBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEBarItem.h; path = include/UMEKit/UMEBarItem.h; sourceTree = "<group>"; };
-		D3CF428C10901C7D0035F42A /* UMETabBarItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMETabBarItemButton.h; path = src/UMETabBarItemButton.h; sourceTree = "<group>"; };
-		D3CF428D10901C7D0035F42A /* UMETabBarItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMETabBarItemButton.m; path = src/UMETabBarItemButton.m; sourceTree = "<group>"; };
+		D3CF41D3109002EB0035F42A /* UIBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIBarItem.m; path = src/UIBarItem.m; sourceTree = "<group>"; };
+		D3CF41D61090076C0035F42A /* UIBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBarItem.h; path = include/UIKit/UIBarItem.h; sourceTree = "<group>"; };
+		D3CF428C10901C7D0035F42A /* UITabBarItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UITabBarItemButton.h; path = src/UITabBarItemButton.h; sourceTree = "<group>"; };
+		D3CF428D10901C7D0035F42A /* UITabBarItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UITabBarItemButton.m; path = src/UITabBarItemButton.m; sourceTree = "<group>"; };
 		D3DEC10A1070060C006B582A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		D3DEC10E1070062E006B582A /* UMEViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEViewController.m; path = src/UMEViewController.m; sourceTree = "<group>"; };
-		D3DEC16B10700D50006B582A /* UMEViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEViewController.h; path = include/UMEKit/UMEViewController.h; sourceTree = "<group>"; };
-		D3DEC19510700DBD006B582A /* UMENavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMENavigationController.m; path = src/UMENavigationController.m; sourceTree = "<group>"; };
-		D3DEC19810700DE7006B582A /* UMENavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMENavigationController.h; path = include/UMEKit/UMENavigationController.h; sourceTree = "<group>"; };
-		D3DEC19C10700E10006B582A /* UMEKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEKit.h; path = include/UMEKit/UMEKit.h; sourceTree = "<group>"; };
-		D3DEC1AB10701106006B582A /* UMENavigationItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMENavigationItem.m; path = src/UMENavigationItem.m; sourceTree = "<group>"; };
-		D3DEC1AF10701114006B582A /* UMETabBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMETabBarItem.m; path = src/UMETabBarItem.m; sourceTree = "<group>"; };
-		D3DEC1B310701123006B582A /* UMETabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMETabBarController.m; path = src/UMETabBarController.m; sourceTree = "<group>"; };
-		D3DEC1B71070112F006B582A /* UMETabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMETabBar.m; path = src/UMETabBar.m; sourceTree = "<group>"; };
-		D3DEC1BA1070114D006B582A /* UMENavigationItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMENavigationItem.h; path = include/UMEKit/UMENavigationItem.h; sourceTree = "<group>"; };
-		D3DEC1BB1070114D006B582A /* UMETabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMETabBar.h; path = include/UMEKit/UMETabBar.h; sourceTree = "<group>"; };
-		D3DEC1BC1070114D006B582A /* UMETabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMETabBarController.h; path = include/UMEKit/UMETabBarController.h; sourceTree = "<group>"; };
-		D3DEC1BD1070114D006B582A /* UMETabBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMETabBarItem.h; path = include/UMEKit/UMETabBarItem.h; sourceTree = "<group>"; };
-		D3DEC23310701397006B582A /* UMEBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEBarButtonItem.m; path = src/UMEBarButtonItem.m; sourceTree = "<group>"; };
-		D3DEC237107013A7006B582A /* UMENavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMENavigationBar.m; path = src/UMENavigationBar.m; sourceTree = "<group>"; };
-		D3DEC240107013DF006B582A /* UMEBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEBarButtonItem.h; path = include/UMEKit/UMEBarButtonItem.h; sourceTree = "<group>"; };
-		D3DEC241107013DF006B582A /* UMENavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMENavigationBar.h; path = include/UMEKit/UMENavigationBar.h; sourceTree = "<group>"; };
-		D3E20CA911D850A9006C9532 /* UMEImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEImageCache.h; path = src/UMEImageCache.h; sourceTree = "<group>"; };
-		D3E20CAA11D850A9006C9532 /* UMEImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEImageCache.m; path = src/UMEImageCache.m; sourceTree = "<group>"; };
-		D3E571BD109123B900810BCD /* UMEActivityBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEActivityBarButtonItem.m; path = src/UMEActivityBarButtonItem.m; sourceTree = "<group>"; };
-		D3E571C0109123F000810BCD /* UMEActivityBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEActivityBarButtonItem.h; path = include/UMEKit/UMEActivityBarButtonItem.h; sourceTree = "<group>"; };
-		D3E571C21091249B00810BCD /* UMEActivityBarButtonItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEActivityBarButtonItemButton.h; path = src/UMEActivityBarButtonItemButton.h; sourceTree = "<group>"; };
-		D3E571C31091249B00810BCD /* UMEActivityBarButtonItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEActivityBarButtonItemButton.m; path = src/UMEActivityBarButtonItemButton.m; sourceTree = "<group>"; };
-		D3E571CA1091255500810BCD /* UMEBarButtonItemButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEBarButtonItemButtonCell.m; path = src/UMEBarButtonItemButtonCell.m; sourceTree = "<group>"; };
-		D3E571CB1091255500810BCD /* UMEBarButtonItemButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEBarButtonItemButtonCell.h; path = src/UMEBarButtonItemButtonCell.h; sourceTree = "<group>"; };
-		D3E571FA109125E500810BCD /* UMEActivityBarButtonItemButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEActivityBarButtonItemButtonCell.m; path = src/UMEActivityBarButtonItemButtonCell.m; sourceTree = "<group>"; };
-		D3E571FB109125E500810BCD /* UMEActivityBarButtonItemButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEActivityBarButtonItemButtonCell.h; path = src/UMEActivityBarButtonItemButtonCell.h; sourceTree = "<group>"; };
-		D3EA864D117BBA24000988EE /* UMEPopoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEPopoverView.h; path = src/UMEPopoverView.h; sourceTree = "<group>"; };
-		D3EA864E117BBA24000988EE /* UMEPopoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEPopoverView.m; path = src/UMEPopoverView.m; sourceTree = "<group>"; };
+		D3DEC10E1070062E006B582A /* UIViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIViewController.m; path = src/UIViewController.m; sourceTree = "<group>"; };
+		D3DEC16B10700D50006B582A /* UIViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIViewController.h; path = include/UIKit/UIViewController.h; sourceTree = "<group>"; };
+		D3DEC19510700DBD006B582A /* UINavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UINavigationController.m; path = src/UINavigationController.m; sourceTree = "<group>"; };
+		D3DEC19810700DE7006B582A /* UINavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UINavigationController.h; path = include/UIKit/UINavigationController.h; sourceTree = "<group>"; };
+		D3DEC19C10700E10006B582A /* UIKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIKit.h; path = include/UIKit/UIKit.h; sourceTree = "<group>"; };
+		D3DEC1AB10701106006B582A /* UINavigationItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UINavigationItem.m; path = src/UINavigationItem.m; sourceTree = "<group>"; };
+		D3DEC1AF10701114006B582A /* UITabBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UITabBarItem.m; path = src/UITabBarItem.m; sourceTree = "<group>"; };
+		D3DEC1B310701123006B582A /* UITabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UITabBarController.m; path = src/UITabBarController.m; sourceTree = "<group>"; };
+		D3DEC1B71070112F006B582A /* UITabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UITabBar.m; path = src/UITabBar.m; sourceTree = "<group>"; };
+		D3DEC1BA1070114D006B582A /* UINavigationItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UINavigationItem.h; path = include/UIKit/UINavigationItem.h; sourceTree = "<group>"; };
+		D3DEC1BB1070114D006B582A /* UITabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UITabBar.h; path = include/UIKit/UITabBar.h; sourceTree = "<group>"; };
+		D3DEC1BC1070114D006B582A /* UITabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UITabBarController.h; path = include/UIKit/UITabBarController.h; sourceTree = "<group>"; };
+		D3DEC1BD1070114D006B582A /* UITabBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UITabBarItem.h; path = include/UIKit/UITabBarItem.h; sourceTree = "<group>"; };
+		D3DEC23310701397006B582A /* UIBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIBarButtonItem.m; path = src/UIBarButtonItem.m; sourceTree = "<group>"; };
+		D3DEC237107013A7006B582A /* UINavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UINavigationBar.m; path = src/UINavigationBar.m; sourceTree = "<group>"; };
+		D3DEC240107013DF006B582A /* UIBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBarButtonItem.h; path = include/UIKit/UIBarButtonItem.h; sourceTree = "<group>"; };
+		D3DEC241107013DF006B582A /* UINavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UINavigationBar.h; path = include/UIKit/UINavigationBar.h; sourceTree = "<group>"; };
+		D3E20CA911D850A9006C9532 /* UIImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIImageCache.h; path = src/UIImageCache.h; sourceTree = "<group>"; };
+		D3E20CAA11D850A9006C9532 /* UIImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIImageCache.m; path = src/UIImageCache.m; sourceTree = "<group>"; };
+		D3E571BD109123B900810BCD /* UIActivityBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIActivityBarButtonItem.m; path = src/UIActivityBarButtonItem.m; sourceTree = "<group>"; };
+		D3E571C0109123F000810BCD /* UIActivityBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIActivityBarButtonItem.h; path = include/UIKit/UIActivityBarButtonItem.h; sourceTree = "<group>"; };
+		D3E571C21091249B00810BCD /* UIActivityBarButtonItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIActivityBarButtonItemButton.h; path = src/UIActivityBarButtonItemButton.h; sourceTree = "<group>"; };
+		D3E571C31091249B00810BCD /* UIActivityBarButtonItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIActivityBarButtonItemButton.m; path = src/UIActivityBarButtonItemButton.m; sourceTree = "<group>"; };
+		D3E571CA1091255500810BCD /* UIBarButtonItemButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIBarButtonItemButtonCell.m; path = src/UIBarButtonItemButtonCell.m; sourceTree = "<group>"; };
+		D3E571CB1091255500810BCD /* UIBarButtonItemButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIBarButtonItemButtonCell.h; path = src/UIBarButtonItemButtonCell.h; sourceTree = "<group>"; };
+		D3E571FA109125E500810BCD /* UIActivityBarButtonItemButtonCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIActivityBarButtonItemButtonCell.m; path = src/UIActivityBarButtonItemButtonCell.m; sourceTree = "<group>"; };
+		D3E571FB109125E500810BCD /* UIActivityBarButtonItemButtonCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIActivityBarButtonItemButtonCell.h; path = src/UIActivityBarButtonItemButtonCell.h; sourceTree = "<group>"; };
+		D3EA864D117BBA24000988EE /* UIPopoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIPopoverView.h; path = src/UIPopoverView.h; sourceTree = "<group>"; };
+		D3EA864E117BBA24000988EE /* UIPopoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIPopoverView.m; path = src/UIPopoverView.m; sourceTree = "<group>"; };
 		D3EA8659117BBDAC000988EE /* back_button_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back_button_bg.png; sourceTree = "<group>"; };
 		D3EA865A117BBDAC000988EE /* barbutton_system_item_action.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barbutton_system_item_action.png; sourceTree = "<group>"; };
 		D3EA865B117BBDAC000988EE /* barbutton_system_item_add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barbutton_system_item_add.png; sourceTree = "<group>"; };
@@ -368,8 +368,8 @@
 		D3EA86C1117BBDAC000988EE /* toolbar_bg_default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolbar_bg_default.png; sourceTree = "<group>"; };
 		D3EA86C2117BBDAC000988EE /* toolbar_bg_gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolbar_bg_gray.png; sourceTree = "<group>"; };
 		D3EA86C3117BBDAC000988EE /* toolbar_bg_navy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolbar_bg_navy.png; sourceTree = "<group>"; };
-		D3EB8C4D117A65D8003C4A2E /* UMEToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UMEToolbar.m; path = src/UMEToolbar.m; sourceTree = "<group>"; };
-		D3EB8C4F117A65EE003C4A2E /* UMEToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UMEToolbar.h; path = include/UMEKit/UMEToolbar.h; sourceTree = "<group>"; };
+		D3EB8C4D117A65D8003C4A2E /* UIToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIToolbar.m; path = src/UIToolbar.m; sourceTree = "<group>"; };
+		D3EB8C4F117A65EE003C4A2E /* UIToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIToolbar.h; path = include/UIKit/UIToolbar.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -386,7 +386,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D343407510742B3500C31EFA /* UMEKit.framework in Frameworks */,
+				D343407510742B3500C31EFA /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -396,23 +396,23 @@
 		034768DFFF38A50411DB9C8B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8DC2EF5B0486A6940098B216 /* UMEKit.framework */,
+				8DC2EF5B0486A6940098B216 /* UIKit.framework */,
 				D343406B10742B2000C31EFA /* DemoApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0867D691FE84028FC02AAC07 /* UMEKit */ = {
+		0867D691FE84028FC02AAC07 /* UIKit */ = {
 			isa = PBXGroup;
 			children = (
 				D343409E10742B9F00C31EFA /* DemoApp */,
-				08FB77AEFE84172EC02AAC07 /* UMEKit Framework */,
+				08FB77AEFE84172EC02AAC07 /* UIKit Framework */,
 				32C88DFF0371C24200C91783 /* Other Sources */,
 				089C1665FE841158C02AAC07 /* Resources */,
 				0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */,
 				034768DFFF38A50411DB9C8B /* Products */,
 			);
-			name = UMEKit;
+			name = UIKit;
 			sourceTree = "<group>";
 		};
 		0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */ = {
@@ -434,31 +434,31 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		08FB77AEFE84172EC02AAC07 /* UMEKit Framework */ = {
+		08FB77AEFE84172EC02AAC07 /* UIKit Framework */ = {
 			isa = PBXGroup;
 			children = (
 				D350D2DF117BB24900A21B6A /* Popover */,
-				D3DEC16B10700D50006B582A /* UMEViewController.h */,
-				D3DEC10E1070062E006B582A /* UMEViewController.m */,
-				D3DEC19810700DE7006B582A /* UMENavigationController.h */,
-				D3DEC19510700DBD006B582A /* UMENavigationController.m */,
-				D3DEC1BA1070114D006B582A /* UMENavigationItem.h */,
-				D3DEC1AB10701106006B582A /* UMENavigationItem.m */,
-				D3DEC241107013DF006B582A /* UMENavigationBar.h */,
-				D3DEC237107013A7006B582A /* UMENavigationBar.m */,
-				D3DEC1BC1070114D006B582A /* UMETabBarController.h */,
-				D3DEC1B310701123006B582A /* UMETabBarController.m */,
-				D3DEC1BB1070114D006B582A /* UMETabBar.h */,
-				D3DEC1B71070112F006B582A /* UMETabBar.m */,
-				D3EB8C4F117A65EE003C4A2E /* UMEToolbar.h */,
-				D3EB8C4D117A65D8003C4A2E /* UMEToolbar.m */,
-				D3CF41D61090076C0035F42A /* UMEBarItem.h */,
-				D3CF41D3109002EB0035F42A /* UMEBarItem.m */,
+				D3DEC16B10700D50006B582A /* UIViewController.h */,
+				D3DEC10E1070062E006B582A /* UIViewController.m */,
+				D3DEC19810700DE7006B582A /* UINavigationController.h */,
+				D3DEC19510700DBD006B582A /* UINavigationController.m */,
+				D3DEC1BA1070114D006B582A /* UINavigationItem.h */,
+				D3DEC1AB10701106006B582A /* UINavigationItem.m */,
+				D3DEC241107013DF006B582A /* UINavigationBar.h */,
+				D3DEC237107013A7006B582A /* UINavigationBar.m */,
+				D3DEC1BC1070114D006B582A /* UITabBarController.h */,
+				D3DEC1B310701123006B582A /* UITabBarController.m */,
+				D3DEC1BB1070114D006B582A /* UITabBar.h */,
+				D3DEC1B71070112F006B582A /* UITabBar.m */,
+				D3EB8C4F117A65EE003C4A2E /* UIToolbar.h */,
+				D3EB8C4D117A65D8003C4A2E /* UIToolbar.m */,
+				D3CF41D61090076C0035F42A /* UIBarItem.h */,
+				D3CF41D3109002EB0035F42A /* UIBarItem.m */,
 				D306BB66109169C00011DE1B /* BarButtonItem */,
 				D3E57214109126F800810BCD /* ActivityItem */,
 				D306BB67109169EF0011DE1B /* TabBarItem */,
 			);
-			name = "UMEKit Framework";
+			name = "UIKit Framework";
 			sourceTree = "<group>";
 		};
 		1058C7B0FEA5585E11CA2CBB /* Linked Frameworks */ = {
@@ -482,11 +482,11 @@
 		32C88DFF0371C24200C91783 /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				D343404C10741E2200C31EFA /* UMEGeometry.h */,
-				D34341A910743EE500C31EFA /* UMEInterface.h */,
-				32DBCF5E0370ADEE00C91783 /* UMEKit_Prefix.pch */,
-				D3E20CA911D850A9006C9532 /* UMEImageCache.h */,
-				D3E20CAA11D850A9006C9532 /* UMEImageCache.m */,
+				D343404C10741E2200C31EFA /* UIGeometry.h */,
+				D34341A910743EE500C31EFA /* UIInterface.h */,
+				32DBCF5E0370ADEE00C91783 /* UIKit_Prefix.pch */,
+				D3E20CA911D850A9006C9532 /* UIImageCache.h */,
+				D3E20CAA11D850A9006C9532 /* UIImageCache.m */,
 				D3C3B251108562DA00ED4547 /* Internal */,
 			);
 			name = "Other Sources";
@@ -495,12 +495,12 @@
 		D306BB66109169C00011DE1B /* BarButtonItem */ = {
 			isa = PBXGroup;
 			children = (
-				D3DEC240107013DF006B582A /* UMEBarButtonItem.h */,
-				D3DEC23310701397006B582A /* UMEBarButtonItem.m */,
-				D33E9C04108F6D8000A35E55 /* UMEBarButtonItemButton.h */,
-				D33E9C05108F6D8000A35E55 /* UMEBarButtonItemButton.m */,
-				D3E571CB1091255500810BCD /* UMEBarButtonItemButtonCell.h */,
-				D3E571CA1091255500810BCD /* UMEBarButtonItemButtonCell.m */,
+				D3DEC240107013DF006B582A /* UIBarButtonItem.h */,
+				D3DEC23310701397006B582A /* UIBarButtonItem.m */,
+				D33E9C04108F6D8000A35E55 /* UIBarButtonItemButton.h */,
+				D33E9C05108F6D8000A35E55 /* UIBarButtonItemButton.m */,
+				D3E571CB1091255500810BCD /* UIBarButtonItemButtonCell.h */,
+				D3E571CA1091255500810BCD /* UIBarButtonItemButtonCell.m */,
 			);
 			name = BarButtonItem;
 			sourceTree = "<group>";
@@ -508,12 +508,12 @@
 		D306BB67109169EF0011DE1B /* TabBarItem */ = {
 			isa = PBXGroup;
 			children = (
-				D3DEC1BD1070114D006B582A /* UMETabBarItem.h */,
-				D3DEC1AF10701114006B582A /* UMETabBarItem.m */,
-				D3CF428C10901C7D0035F42A /* UMETabBarItemButton.h */,
-				D3CF428D10901C7D0035F42A /* UMETabBarItemButton.m */,
-				D306BB6910916A3A0011DE1B /* UMETabBarItemButtonCell.h */,
-				D306BB6810916A3A0011DE1B /* UMETabBarItemButtonCell.m */,
+				D3DEC1BD1070114D006B582A /* UITabBarItem.h */,
+				D3DEC1AF10701114006B582A /* UITabBarItem.m */,
+				D3CF428C10901C7D0035F42A /* UITabBarItemButton.h */,
+				D3CF428D10901C7D0035F42A /* UITabBarItemButton.m */,
+				D306BB6910916A3A0011DE1B /* UITabBarItemButtonCell.h */,
+				D306BB6810916A3A0011DE1B /* UITabBarItemButtonCell.m */,
 			);
 			name = TabBarItem;
 			sourceTree = "<group>";
@@ -545,10 +545,10 @@
 		D350D2DF117BB24900A21B6A /* Popover */ = {
 			isa = PBXGroup;
 			children = (
-				D350D2F0117BB44200A21B6A /* UMEPopoverController.h */,
-				D350D2E1117BB25A00A21B6A /* UMEPopoverController.m */,
-				D3EA864D117BBA24000988EE /* UMEPopoverView.h */,
-				D3EA864E117BBA24000988EE /* UMEPopoverView.m */,
+				D350D2F0117BB44200A21B6A /* UIPopoverController.h */,
+				D350D2E1117BB25A00A21B6A /* UIPopoverController.m */,
+				D3EA864D117BBA24000988EE /* UIPopoverView.h */,
+				D3EA864E117BBA24000988EE /* UIPopoverView.m */,
 			);
 			name = Popover;
 			sourceTree = "<group>";
@@ -556,13 +556,13 @@
 		D3C3B251108562DA00ED4547 /* Internal */ = {
 			isa = PBXGroup;
 			children = (
-				D3DEC19C10700E10006B582A /* UMEKit.h */,
-				D34342481074455900C31EFA /* UMEFlippedView.h */,
-				D34342491074455900C31EFA /* UMEFlippedView.m */,
-				D34342251074446C00C31EFA /* UMERedView.h */,
-				D34342261074446C00C31EFA /* UMERedView.m */,
-				D39BF34C1087028800E399F3 /* UMEDebugView.h */,
-				D39BF34D1087028800E399F3 /* UMEDebugView.m */,
+				D3DEC19C10700E10006B582A /* UIKit.h */,
+				D34342481074455900C31EFA /* UIFlippedView.h */,
+				D34342491074455900C31EFA /* UIFlippedView.m */,
+				D34342251074446C00C31EFA /* UIRedView.h */,
+				D34342261074446C00C31EFA /* UIRedView.m */,
+				D39BF34C1087028800E399F3 /* UIDebugView.h */,
+				D39BF34D1087028800E399F3 /* UIDebugView.m */,
 			);
 			name = Internal;
 			sourceTree = "<group>";
@@ -570,12 +570,12 @@
 		D3E57214109126F800810BCD /* ActivityItem */ = {
 			isa = PBXGroup;
 			children = (
-				D3E571C0109123F000810BCD /* UMEActivityBarButtonItem.h */,
-				D3E571BD109123B900810BCD /* UMEActivityBarButtonItem.m */,
-				D3E571C21091249B00810BCD /* UMEActivityBarButtonItemButton.h */,
-				D3E571C31091249B00810BCD /* UMEActivityBarButtonItemButton.m */,
-				D3E571FB109125E500810BCD /* UMEActivityBarButtonItemButtonCell.h */,
-				D3E571FA109125E500810BCD /* UMEActivityBarButtonItemButtonCell.m */,
+				D3E571C0109123F000810BCD /* UIActivityBarButtonItem.h */,
+				D3E571BD109123B900810BCD /* UIActivityBarButtonItem.m */,
+				D3E571C21091249B00810BCD /* UIActivityBarButtonItemButton.h */,
+				D3E571C31091249B00810BCD /* UIActivityBarButtonItemButton.m */,
+				D3E571FB109125E500810BCD /* UIActivityBarButtonItemButtonCell.h */,
+				D3E571FA109125E500810BCD /* UIActivityBarButtonItemButtonCell.m */,
 			);
 			name = ActivityItem;
 			sourceTree = "<group>";
@@ -702,38 +702,38 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3DEC19D10700E10006B582A /* UMEKit.h in Headers */,
-				D343404D10741E2200C31EFA /* UMEGeometry.h in Headers */,
-				D34341AA10743EE500C31EFA /* UMEInterface.h in Headers */,
-				D3DEC16C10700D50006B582A /* UMEViewController.h in Headers */,
-				D3DEC19910700DE7006B582A /* UMENavigationController.h in Headers */,
-				D3DEC1BE1070114D006B582A /* UMENavigationItem.h in Headers */,
-				D3DEC1BF1070114D006B582A /* UMETabBar.h in Headers */,
-				D3DEC1C01070114D006B582A /* UMETabBarController.h in Headers */,
-				D3DEC1C11070114D006B582A /* UMETabBarItem.h in Headers */,
-				D3DEC242107013DF006B582A /* UMEBarButtonItem.h in Headers */,
-				D3DEC243107013DF006B582A /* UMENavigationBar.h in Headers */,
-				D33E9C06108F6D8000A35E55 /* UMEBarButtonItemButton.h in Headers */,
-				D3CF41D71090076C0035F42A /* UMEBarItem.h in Headers */,
-				D3CF428E10901C7D0035F42A /* UMETabBarItemButton.h in Headers */,
-				D3E571C1109123F000810BCD /* UMEActivityBarButtonItem.h in Headers */,
-				D3E571C41091249B00810BCD /* UMEActivityBarButtonItemButton.h in Headers */,
-				D3E571CD1091255500810BCD /* UMEBarButtonItemButtonCell.h in Headers */,
-				D3E571FD109125E500810BCD /* UMEActivityBarButtonItemButtonCell.h in Headers */,
-				D306BB6B10916A3A0011DE1B /* UMETabBarItemButtonCell.h in Headers */,
-				D3EB8C50117A65EE003C4A2E /* UMEToolbar.h in Headers */,
-				D350D2F1117BB44200A21B6A /* UMEPopoverController.h in Headers */,
-				D3EA864F117BBA24000988EE /* UMEPopoverView.h in Headers */,
-				D3E20CAB11D850A9006C9532 /* UMEImageCache.h in Headers */,
+				D3DEC19D10700E10006B582A /* UIKit.h in Headers */,
+				D343404D10741E2200C31EFA /* UIGeometry.h in Headers */,
+				D34341AA10743EE500C31EFA /* UIInterface.h in Headers */,
+				D3DEC16C10700D50006B582A /* UIViewController.h in Headers */,
+				D3DEC19910700DE7006B582A /* UINavigationController.h in Headers */,
+				D3DEC1BE1070114D006B582A /* UINavigationItem.h in Headers */,
+				D3DEC1BF1070114D006B582A /* UITabBar.h in Headers */,
+				D3DEC1C01070114D006B582A /* UITabBarController.h in Headers */,
+				D3DEC1C11070114D006B582A /* UITabBarItem.h in Headers */,
+				D3DEC242107013DF006B582A /* UIBarButtonItem.h in Headers */,
+				D3DEC243107013DF006B582A /* UINavigationBar.h in Headers */,
+				D33E9C06108F6D8000A35E55 /* UIBarButtonItemButton.h in Headers */,
+				D3CF41D71090076C0035F42A /* UIBarItem.h in Headers */,
+				D3CF428E10901C7D0035F42A /* UITabBarItemButton.h in Headers */,
+				D3E571C1109123F000810BCD /* UIActivityBarButtonItem.h in Headers */,
+				D3E571C41091249B00810BCD /* UIActivityBarButtonItemButton.h in Headers */,
+				D3E571CD1091255500810BCD /* UIBarButtonItemButtonCell.h in Headers */,
+				D3E571FD109125E500810BCD /* UIActivityBarButtonItemButtonCell.h in Headers */,
+				D306BB6B10916A3A0011DE1B /* UITabBarItemButtonCell.h in Headers */,
+				D3EB8C50117A65EE003C4A2E /* UIToolbar.h in Headers */,
+				D350D2F1117BB44200A21B6A /* UIPopoverController.h in Headers */,
+				D3EA864F117BBA24000988EE /* UIPopoverView.h in Headers */,
+				D3E20CAB11D850A9006C9532 /* UIImageCache.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		8DC2EF4F0486A6940098B216 /* UMEKit */ = {
+		8DC2EF4F0486A6940098B216 /* UIKit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "UMEKit" */;
+			buildConfigurationList = 1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "UIKit" */;
 			buildPhases = (
 				8DC2EF540486A6940098B216 /* Sources */,
 				8DC2EF500486A6940098B216 /* Headers */,
@@ -744,10 +744,10 @@
 			);
 			dependencies = (
 			);
-			name = UMEKit;
+			name = UIKit;
 			productInstallPath = "$(HOME)/Library/Frameworks";
-			productName = UMEKit;
-			productReference = 8DC2EF5B0486A6940098B216 /* UMEKit.framework */;
+			productName = UIKit;
+			productReference = 8DC2EF5B0486A6940098B216 /* UIKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		D343406A10742B2000C31EFA /* DemoApp */ = {
@@ -773,15 +773,21 @@
 /* Begin PBXProject section */
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = 1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "UMEKit" */;
+			attributes = {
+			};
+			buildConfigurationList = 1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "UIKit" */;
 			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
-			mainGroup = 0867D691FE84028FC02AAC07 /* UMEKit */;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0867D691FE84028FC02AAC07 /* UIKit */;
 			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8DC2EF4F0486A6940098B216 /* UMEKit */,
+				8DC2EF4F0486A6940098B216 /* UIKit */,
 				D343406A10742B2000C31EFA /* DemoApp */,
 			);
 		};
@@ -922,29 +928,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3DEC1101070062E006B582A /* UMEViewController.m in Sources */,
-				D3DEC19710700DBD006B582A /* UMENavigationController.m in Sources */,
-				D3DEC1AD10701106006B582A /* UMENavigationItem.m in Sources */,
-				D3DEC1B110701114006B582A /* UMETabBarItem.m in Sources */,
-				D3DEC1B510701123006B582A /* UMETabBarController.m in Sources */,
-				D3DEC1B91070112F006B582A /* UMETabBar.m in Sources */,
-				D3DEC23510701397006B582A /* UMEBarButtonItem.m in Sources */,
-				D3DEC239107013A7006B582A /* UMENavigationBar.m in Sources */,
-				D34342281074446C00C31EFA /* UMERedView.m in Sources */,
-				D343424B1074455900C31EFA /* UMEFlippedView.m in Sources */,
-				D39BF34F1087028800E399F3 /* UMEDebugView.m in Sources */,
-				D33E9C07108F6D8000A35E55 /* UMEBarButtonItemButton.m in Sources */,
-				D3CF41D5109002EB0035F42A /* UMEBarItem.m in Sources */,
-				D3CF428F10901C7D0035F42A /* UMETabBarItemButton.m in Sources */,
-				D3E571BF109123B900810BCD /* UMEActivityBarButtonItem.m in Sources */,
-				D3E571C51091249B00810BCD /* UMEActivityBarButtonItemButton.m in Sources */,
-				D3E571CC1091255500810BCD /* UMEBarButtonItemButtonCell.m in Sources */,
-				D3E571FC109125E500810BCD /* UMEActivityBarButtonItemButtonCell.m in Sources */,
-				D306BB6A10916A3A0011DE1B /* UMETabBarItemButtonCell.m in Sources */,
-				D3EB8C4E117A65D8003C4A2E /* UMEToolbar.m in Sources */,
-				D350D2E3117BB25A00A21B6A /* UMEPopoverController.m in Sources */,
-				D3EA8650117BBA24000988EE /* UMEPopoverView.m in Sources */,
-				D3E20CAC11D850A9006C9532 /* UMEImageCache.m in Sources */,
+				D3DEC1101070062E006B582A /* UIViewController.m in Sources */,
+				D3DEC19710700DBD006B582A /* UINavigationController.m in Sources */,
+				D3DEC1AD10701106006B582A /* UINavigationItem.m in Sources */,
+				D3DEC1B110701114006B582A /* UITabBarItem.m in Sources */,
+				D3DEC1B510701123006B582A /* UITabBarController.m in Sources */,
+				D3DEC1B91070112F006B582A /* UITabBar.m in Sources */,
+				D3DEC23510701397006B582A /* UIBarButtonItem.m in Sources */,
+				D3DEC239107013A7006B582A /* UINavigationBar.m in Sources */,
+				D34342281074446C00C31EFA /* UIRedView.m in Sources */,
+				D343424B1074455900C31EFA /* UIFlippedView.m in Sources */,
+				D39BF34F1087028800E399F3 /* UIDebugView.m in Sources */,
+				D33E9C07108F6D8000A35E55 /* UIBarButtonItemButton.m in Sources */,
+				D3CF41D5109002EB0035F42A /* UIBarItem.m in Sources */,
+				D3CF428F10901C7D0035F42A /* UITabBarItemButton.m in Sources */,
+				D3E571BF109123B900810BCD /* UIActivityBarButtonItem.m in Sources */,
+				D3E571C51091249B00810BCD /* UIActivityBarButtonItemButton.m in Sources */,
+				D3E571CC1091255500810BCD /* UIBarButtonItemButtonCell.m in Sources */,
+				D3E571FC109125E500810BCD /* UIActivityBarButtonItemButtonCell.m in Sources */,
+				D306BB6A10916A3A0011DE1B /* UITabBarItemButtonCell.m in Sources */,
+				D3EB8C4E117A65D8003C4A2E /* UIToolbar.m in Sources */,
+				D350D2E3117BB25A00A21B6A /* UIPopoverController.m in Sources */,
+				D3EA8650117BBA24000988EE /* UIPopoverView.m in Sources */,
+				D3E20CAC11D850A9006C9532 /* UIImageCache.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -966,7 +972,7 @@
 /* Begin PBXTargetDependency section */
 		D343407410742B3100C31EFA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8DC2EF4F0486A6940098B216 /* UMEKit */;
+			target = 8DC2EF4F0486A6940098B216 /* UIKit */;
 			targetProxy = D343407310742B3100C31EFA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -998,12 +1004,12 @@
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = UMEKit_Prefix.pch;
+				GCC_PREFIX_HEADER = UIKit_Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/include\"";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Frameworks";
-				PRODUCT_NAME = UMEKit;
-				SDKROOT = macosx10.5;
+				PRODUCT_NAME = UIKit;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Debug;
@@ -1021,12 +1027,12 @@
 				GCC_ENABLE_OBJC_GC = supported;
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = UMEKit_Prefix.pch;
+				GCC_PREFIX_HEADER = UIKit_Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/include\"";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = build/Release;
-				PRODUCT_NAME = UMEKit;
-				SDKROOT = macosx10.5;
+				PRODUCT_NAME = UIKit;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Release;
@@ -1072,6 +1078,7 @@
 				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
 				INFOPLIST_FILE = "demoapp/DemoApp-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				OTHER_LDFLAGS = (
 					"-framework",
 					Foundation,
@@ -1080,7 +1087,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = DemoApp;
-				SDKROOT = "";
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
@@ -1098,6 +1105,7 @@
 				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
 				INFOPLIST_FILE = "demoapp/DemoApp-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				OTHER_LDFLAGS = (
 					"-framework",
 					Foundation,
@@ -1106,7 +1114,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = DemoApp;
-				SDKROOT = "";
+				SDKROOT = macosx;
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -1114,7 +1122,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "UMEKit" */ = {
+		1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "UIKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DEB91AE08733DA50010E9CD /* Debug */,
@@ -1123,7 +1131,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "UMEKit" */ = {
+		1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "UIKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DEB91B208733DA50010E9CD /* Debug */,

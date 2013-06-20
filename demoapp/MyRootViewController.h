@@ -12,11 +12,11 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-#import <UMEKit/UMEKit.h>
+#import <UIKit/UIKit.h>
 
-@interface MyRootViewController : UMEViewController {
+@interface MyRootViewController : UIViewController {
     IBOutlet NSButton *button;
-    IBOutlet UMEToolbar *toolbar;
+    IBOutlet UIToolbar *toolbar;
 }
 
 - (IBAction)click:(id)sender;

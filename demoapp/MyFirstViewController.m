@@ -33,13 +33,13 @@
 
 
 - (void)viewDidLoad {
-//    self.navigationItem.leftBarButtonItem = [[[UMEBarButtonItem alloc] initWithTitle:@"1 left" 
-//                                                                               style:UMEBarButtonItemStylePlain 
+//    self.navigationItem.leftBarButtonItem = [[[UIBarButtonItem alloc] initWithTitle:@"1 left" 
+//                                                                               style:UIBarButtonItemStylePlain 
 //                                                                              target:self 
 //                                                                              action:@selector(back:)] autorelease];
     
-    self.navigationItem.rightBarButtonItem = [[[UMEBarButtonItem alloc] initWithTitle:@"BARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR" 
-                                                                                style:UMEBarButtonItemStylePlain 
+    self.navigationItem.rightBarButtonItem = [[[UIBarButtonItem alloc] initWithTitle:@"BARRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR" 
+                                                                                style:UIBarButtonItemStylePlain 
                                                                                target:self 
                                                                                action:@selector(home:)] autorelease];
 }
